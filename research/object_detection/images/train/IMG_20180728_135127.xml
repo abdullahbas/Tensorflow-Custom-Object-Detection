@@ -1,0 +1,26 @@
+<annotation>
+	<folder>po</folder>
+	<filename>IMG_20180728_135127.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ya\po\IMG_20180728_135127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elli</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>12</ymin>
+			<xmax>590</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

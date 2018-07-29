@@ -1,0 +1,26 @@
+<annotation>
+	<folder>po</folder>
+	<filename>IMG_20180718_193346_BURST1.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ya\po\IMG_20180718_193346_BURST1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>on</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>133</ymin>
+			<xmax>785</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

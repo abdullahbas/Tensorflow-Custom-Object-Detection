@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ys</folder>
+	<filename>IMG_20180718_193346_BURST4.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\models\research\object_detection\images\ys\IMG_20180718_193346_BURST4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>106</ymin>
+			<xmax>587</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ys</folder>
+	<filename>IMG_20180722_204235.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\models\research\object_detection\images\ys\IMG_20180722_204235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>on</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>72</ymin>
+			<xmax>590</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

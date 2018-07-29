@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5tl</folder>
+	<filename>IMG_20180728_203846.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\data\5tl\IMG_20180728_203846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>228</ymin>
+			<xmax>474</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

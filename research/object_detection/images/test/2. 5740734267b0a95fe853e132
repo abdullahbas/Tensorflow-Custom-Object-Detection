@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5tl</folder>
+	<filename>2. 5740734267b0a95fe853e132.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\data\5tl\2. 5740734267b0a95fe853e132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>27</ymin>
+			<xmax>844</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

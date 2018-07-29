@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5tl</folder>
+	<filename>IMG_20180716_220549_BURST21.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\data\5tl\IMG_20180716_220549_BURST21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>219</ymin>
+			<xmax>464</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

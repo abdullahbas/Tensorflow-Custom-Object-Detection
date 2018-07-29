@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100tl</folder>
+	<filename>IMG_20180728_201739.jpg</filename>
+	<path>C:\Users\trabz\Desktop\ownDatafrcnn\data\100tl\IMG_20180728_201739.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yuz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>102</ymin>
+			<xmax>457</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
